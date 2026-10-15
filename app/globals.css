@@ -131,6 +131,10 @@ a:focus-visible {
   text-transform: uppercase;
 }
 
+.brand__mark{
+  background-image: url(/mbaz.png);
+}
+
 .main-nav {
   display: flex;
   align-items: center;

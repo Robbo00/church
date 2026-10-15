@@ -9,7 +9,7 @@ export const pageContent = {
     intro: "Solid Rock Missionary Baptist Church welcomes people to worship, grow in faith, and serve their neighbors together.",
     sections: [
       { heading: "A place to worship and grow", paragraphs: ["We gather to know Christ and make Him known. Whether you are visiting for the first time or looking for a church home, you are welcome to join us in worship and community life.", "The church's published welcome lists Sunday worship in person at 10:00 AM and online at 10:30 AM. We also gather for Bible study, prayer, and ministry throughout the week."] },
-      { heading: "Meet our pastor", paragraphs: ["The church's current homepage identifies Rev. Dr. Kenneth A. Mitchell, Sr. as pastor."] },
+      { heading: "Meet our pastor", paragraphs: ["Our current pastor is Rev. Dr. Kenneth A. Mitchell, Sr."] },
       { heading: "What guides us", links: [
         { href: "/our_vision", label: "Our Vision" },
         { href: "/mission", label: "Mission" },
